@@ -2,6 +2,7 @@
 ## 一、介绍（获取源码，[查看文章末尾](#四-咨询我们)） 
 计算机毕业设计 动物园小程序 动物园管理系统，前后端分离，基于node+vue项目，有登录、订票，天气查询，购买物品等功能
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架，微信原生小程序
 2. 后端：nodejs express框架
@@ -28,6 +29,7 @@
 3. 扫一扫加我微信好友吧，请备注 动物园小程序源码获取
 <img src="./preview/wx.jpg" style="width: 200px;">
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 
 
 
