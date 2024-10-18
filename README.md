@@ -16,11 +16,11 @@
 <img src="./preview/5.jpg">
 
 ### 2. 后台管理（管理端）
-<img src="./preview/21.jpg">
-<img src="./preview/22.jpg">
-<img src="./preview/23.jpg">
-<img src="./preview/24.jpg">
-<img src="./preview/25.jpg">
+<img src="./preview/21.png">
+<img src="./preview/22.png">
+<img src="./preview/23.png">
+<img src="./preview/24.png">
+<img src="./preview/25.png">
 
 ## 四、🚀 咨询我们
 1. **个人手敲，独立编写项目，不是网上所找的资源**
